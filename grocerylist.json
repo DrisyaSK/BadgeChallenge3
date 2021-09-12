@@ -1,0 +1,85 @@
+{
+    "grocery":
+    [
+        {
+            "Sno": "01",
+            "Name" : "Milk",
+            "Quantity" : "2",
+            "Unit" : "Litres",
+            "Department": "Diary products",
+            "Notes":"Fat Milk"
+        },
+        {
+            "Sno": "02",
+            "Name" : "Egg",
+            "Quantity" : "10",
+            "Unit" : "Numbers",
+            "Department": "Poultry",
+            "Notes":"Desi Type"
+        },
+        {
+            "Sno": "03",
+            "Name" : "Onion",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department": "Vegetables",
+            "Notes":"Fresh"
+        },
+        {
+            "Sno": "04",
+            "Name" : "Potato",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department": "Vegetables",
+            "Notes":"Fresh"
+        },
+        {
+            "Sno": "05",
+            "Name" : "Wheat flour",
+            "Quantity" : "5",
+            "Unit" : "kg",
+            "Department":"Flour",
+            "Notes":"Ashirvaad"
+        },
+        {
+            "Sno": "06",
+            "Name" : "Coconut Oil",
+            "Quantity" : "1",
+            "Unit" : "Litre",
+            "Department": "Oil",
+            "Notes":"KLF Coconadu"
+        },
+        {
+            "Sno": "07",
+            "Name" : "Biscuits",
+            "Quantity" : "2",
+            "Unit" : "Packets",
+            "Department": "Snacks",
+            "Notes":"Dark Fantasy"
+        },
+        {
+            "Sno": "08",
+            "Name" : "Sugar",
+            "Quantity" : "5",
+            "Unit" : "kg",
+            "Department": "Dry Food",
+            "Notes":"NA"
+        },
+        {
+            "Sno": "09",
+            "Name" : "Chocolate",
+            "Quantity" : "1",
+            "Unit" : "Packet",
+            "Department": "Confectionaries",
+            "Notes":"Amul Dark Chocolate"
+        },
+        {
+            "Sno": "10",
+            "Name" : "Paneer",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department": "Milk Products",
+            "Notes":"MilkyMist"
+        }
+    ]
+}
